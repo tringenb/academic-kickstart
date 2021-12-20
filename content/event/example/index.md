@@ -8,12 +8,12 @@ location: Indiana University
 address:
   street: ""
   city: Bloomington
-  region: IN""
+  region: IN
   postcode: ""
   country: United States
 
 summary: ""
-abstract: "
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -30,15 +30,11 @@ tags: [Digital Crime, Annotation Methodology, Child Crime]
 # Is this a featured talk? (true/false)
 featured: true
 
-image:
-  caption: ""
-  focal_point: ""
+#image:
+#  caption: ""
+#  focal_point: ""
 
-links:
-- icon: ""
-  icon_pack: ""
-  name: ""
-  url: ""
+#links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
